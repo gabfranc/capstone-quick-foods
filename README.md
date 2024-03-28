@@ -16,5 +16,5 @@
 ## ABOUT WEBSITE
 
 - Cooking Website that provides users to find quick and easy recipes with ingredients they may have at home, while spending time with friends and family.
-- Best way to spend time with family especially getting the kids involved with cooking simple or traditional recipes.
+- Best way to spend time with family especially getting the kids and siblings involved with cooking simple or traditional recipes.
 - User Target Ages: 13 +
